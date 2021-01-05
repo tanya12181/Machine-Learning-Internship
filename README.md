@@ -1,4 +1,4 @@
-https://medium.com/@tanya.uttam/
+https://medium.com/@tanya-gupta18/
 # Machine-Learning-Internship
 All the work and assignments given during internship
 ## Day 1 Blog: 
