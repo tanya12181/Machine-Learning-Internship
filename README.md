@@ -11,3 +11,4 @@ https://medium.com/@tanya-gupta18/intern-diaries-pandas-concepts-467d93a16dfa
 https://medium.com/@tanya-gupta18/intern-diaries-matplotlib-and-seaborn-922061d8107e
 ## Day 5 Blog: 
 https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39657a
+(published in Analytics Vidhya)
