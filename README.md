@@ -12,6 +12,8 @@ https://medium.com/@tanya-gupta18/intern-diaries-matplotlib-and-seaborn-922061d8
 ## Day 5 Blog: 
 https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39657a
 ## Day 6 Blogs:
+### Blog 1
 https://medium.com/@tanya-gupta18/intern-diaries-linear-algebra-24b996b0806c
+### Blog 2
 https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192
 
