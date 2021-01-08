@@ -16,5 +16,5 @@ https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39
 https://medium.com/@tanya-gupta18/intern-diaries-linear-algebra-24b996b0806c
 ### Blog 2
 https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192
-winequality_red.csv
+### winequality_red.csv
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009/download
