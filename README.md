@@ -16,4 +16,6 @@ https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39
 https://medium.com/@tanya-gupta18/intern-diaries-linear-algebra-24b996b0806c  (Published in Analytics Vidhya)
 ### Blog 2
 https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192 (Published in Analytics Vidhya)
+## Task 7 Blog:
+https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e
 
