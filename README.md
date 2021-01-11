@@ -10,12 +10,14 @@ https://medium.com/@tanya-gupta18/intern-diaries-pandas-concepts-467d93a16dfa (P
 ## Day 4 Blog: 
 https://medium.com/@tanya-gupta18/intern-diaries-matplotlib-and-seaborn-922061d8107e
 ## Day 5 Blog: 
-https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39657a
+https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39657a (Published in Analytics Vidhya)
 ## Day 6 Blogs:
 ### Blog 1
 https://medium.com/@tanya-gupta18/intern-diaries-linear-algebra-24b996b0806c  (Published in Analytics Vidhya)
 ### Blog 2
 https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192 (Published in Analytics Vidhya)
 ## Task 7 Blog:
-https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e
+https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e (Published in CodeX)
+## Task 8 Blog:
+https://tanya-gupta18.medium.com/understanding-knn-algorithm-4970d4b71ce3?source=your_stories_page-------------------------------------
 
