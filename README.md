@@ -6,7 +6,7 @@ https://medium.com/@tanya.uttam/getting-familiar-with-machine-learning-157833418
 ## Day 2 Blog:
 https://medium.com/@tanya-gupta18/intern-diaries-numpy-basics-caf6e30460d5  (Published in CodeX)
 ## Day 3 Blog: 
-https://medium.com/@tanya-gupta18/intern-diaries-pandas-concepts-467d93a16dfa
+https://medium.com/@tanya-gupta18/intern-diaries-pandas-concepts-467d93a16dfa (Published in Analytics Vidhya)
 ## Day 4 Blog: 
 https://medium.com/@tanya-gupta18/intern-diaries-matplotlib-and-seaborn-922061d8107e
 ## Day 5 Blog: 
