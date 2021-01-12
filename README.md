@@ -8,7 +8,7 @@ https://medium.com/@tanya-gupta18/intern-diaries-numpy-basics-caf6e30460d5  (Pub
 ## Day 3 Blog: 
 https://medium.com/@tanya-gupta18/intern-diaries-pandas-concepts-467d93a16dfa (Published in Analytics Vidhya)
 ## Day 4 Blog: 
-https://medium.com/@tanya-gupta18/intern-diaries-matplotlib-and-seaborn-922061d8107e
+https://medium.com/@tanya-gupta18/intern-diaries-matplotlib-and-seaborn-922061d8107e (Published in Analytics Vidhya)
 ## Day 5 Blog: 
 https://medium.com/@tanya-gupta18/intern-diaries-introduction-to-opencv-81a9db39657a (Published in Analytics Vidhya)
 ## Day 6 Blogs:
@@ -19,5 +19,5 @@ https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192 (Publis
 ## Task 7 Blog:
 https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e (Published in CodeX)
 ## Task 8 Blog:
-https://tanya-gupta18.medium.com/understanding-knn-algorithm-4970d4b71ce3?source=your_stories_page-------------------------------------
+https://tanya-gupta18.medium.com/understanding-knn-algorithm-4970d4b71ce3?source=your_stories_page-------------------------------------(Published in The Startup)
 
