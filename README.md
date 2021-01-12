@@ -19,5 +19,5 @@ https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192 (Publis
 ## Task 7 Blog:
 https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e (Published in CodeX)
 ## Task 8 Blog:
-https://tanya-gupta18.medium.com/understanding-knn-algorithm-4970d4b71ce3?source=your_stories_page-------------------------------------(Published in The Startup)
+https://tanya-gupta18.medium.com/understanding-knn-algorithm-4970d4b71ce3?source=your_stories_page------------------------------------- (Published in The Startup)
 
