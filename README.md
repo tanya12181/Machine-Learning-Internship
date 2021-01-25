@@ -26,6 +26,12 @@ https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
 https://tanya-gupta18.medium.com/a-noobs-guide-to-decision-trees-171252c5b653?source=your_stories_page------------------------------------- (Published in Analytics Vidhya)
 ### Kaggle dataset link for task 9
 https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
+## Task 10 Blog:
+https://medium.com/swlh/understanding-logistic-regression-3cd1a69e070b (Published in The Startup)
 ## Task 11 Blog:
 https://medium.com/swlh/a-noobs-guide-to-k-means-215a600bd1eb (Published in The Startup)
+## Task 12 Blog:
+https://medium.com/swlh/a-noobs-guide-to-svm-e7c68854345a (Published in The Startup)
+## Task 13 Blog:
+https://medium.com/datadriveninvestor/a-noobs-guide-to-naive-bayes-2ef0d8c131a6 (Published in Data Driven Investor)
 
