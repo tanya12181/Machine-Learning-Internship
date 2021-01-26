@@ -21,7 +21,7 @@ https://medium.com/@tanya-gupta18/intern-diaries-maths-for-ml-138c3d81b4c9
 ## Task 7 Blog:
 https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e (Published in CodeX)
 ## Task 8 Blog:
-https://tanya-gupta18.medium.com/understanding-knn-algorithm-4970d4b71ce3?source=your_stories_page------------------------------------- (Published in The Startup)
+https://medium.com/swlh/understanding-knn-algorithm-4970d4b71ce3 (Published in The Startup)
 ### dataset link for task 8:
 https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
 ## Task 9 Blogs:
