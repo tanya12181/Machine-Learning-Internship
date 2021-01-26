@@ -25,7 +25,7 @@ https://medium.com/swlh/understanding-knn-algorithm-4970d4b71ce3 (Published in T
 ### dataset link for task 8:
 https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
 ## Task 9 Blogs:
-https://tanya-gupta18.medium.com/a-noobs-guide-to-decision-trees-171252c5b653?source=your_stories_page------------------------------------- (Published in Analytics Vidhya)
+https://medium.com/analytics-vidhya/a-noobs-guide-to-decision-trees-171252c5b653 (Published in Analytics Vidhya)
 ### Kaggle dataset link for task 9
 https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
 
