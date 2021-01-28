@@ -17,7 +17,7 @@ https://medium.com/@tanya-gupta18/intern-diaries-linear-algebra-24b996b0806c  (P
 ### Blog 2
 https://medium.com/@tanya-gupta18/intern-diaries-statistics-67c7d2e75192 (Published in Analytics Vidhya)
 ### Blog 3
-https://medium.com/@tanya-gupta18/intern-diaries-maths-for-ml-138c3d81b4c9 
+https://medium.com/@tanya-gupta18/intern-diaries-maths-for-ml-138c3d81b4c9 (Published in Analytics Vidhya)
 ## Task 7 Blog:
 https://tanya-gupta18.medium.com/understanding-linear-regression-402df5a4667e (Published in CodeX)
 ## Task 8 Blog:
@@ -25,7 +25,10 @@ https://medium.com/swlh/understanding-knn-algorithm-4970d4b71ce3 (Published in T
 ### dataset link for task 8:
 https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
 ## Task 9 Blogs:
+### Blog 1
 https://medium.com/analytics-vidhya/a-noobs-guide-to-decision-trees-171252c5b653 (Published in Analytics Vidhya)
+### Blog 2
+https://medium.com/@tanya-gupta18/a-noobs-guide-to-random-forest-d7398d56b01c 
 ### Kaggle dataset link for task 9
 https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
 
