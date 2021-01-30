@@ -28,7 +28,7 @@ https://www.kaggle.com/danupnelson/14-celebrity-faces-dataset
 ### Blog 1
 https://medium.com/analytics-vidhya/a-noobs-guide-to-decision-trees-171252c5b653 (Published in Analytics Vidhya)
 ### Blog 2
-https://medium.com/@tanya-gupta18/a-noobs-guide-to-random-forest-d7398d56b01c 
+https://medium.com/@tanya-gupta18/a-noobs-guide-to-random-forest-d7398d56b01c (Published in Level Up Coding)
 ### Kaggle dataset link for task 9
 https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
 
